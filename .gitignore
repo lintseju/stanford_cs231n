@@ -1,1 +1,7 @@
 .idea
+.ipynb_checkpoints
+*.c
+*.so
+build
+__pycahce__
+cifar-10-batches-py
