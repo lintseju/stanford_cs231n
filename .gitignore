@@ -5,4 +5,7 @@
 build
 __pycahce__
 cifar-10-batches-py
-dataset/
+coco_captioning
+MNIST_data
+imagenet_val_25.npz
+squeezenet.ckpt.*
